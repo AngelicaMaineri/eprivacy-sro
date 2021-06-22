@@ -10,3 +10,4 @@ It runs on the following datasets:
 - GDP: Eurostat (2019): GDP per capita in PPS (TEC00114) [link](https://ec.europa.eu/eurostat/databrowser/view/TEC00114/default/table)
 
 ## DESI map
+The map is produced with an R syntax (see desi-2017.R) and runs on an excerpt of the DESI dataset exported from the Stata workflow. 
